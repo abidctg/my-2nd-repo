@@ -1,0 +1,13 @@
+p{
+    color: chartreuse;background-color: mintcream;
+    box-sizing: 20px 20px 20px;
+}
+#i{
+    color: orange;background-color: olivedrab;border-radius: 20px 20px 20px;border: springgreen;
+}
+.boss{
+    color: orangered;background-color: yellow;border: red;border-radius: 30px 30px 30px;
+}
+#abid{
+    size: 50% 50%;
+}
